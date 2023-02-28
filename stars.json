@@ -1,15 +1,27 @@
 [
   {
+    "full_name": "lukeed/clsx",
+    "stargazers_count": 4667,
+    "open_issues_count": 8,
+    "forks_count": 83
+  },
+  {
+    "full_name": "4lejandrito/next-plausible",
+    "stargazers_count": 342,
+    "open_issues_count": 8,
+    "forks_count": 23
+  },
+  {
     "full_name": "musescore/MuseScore",
-    "stargazers_count": 9215,
-    "open_issues_count": 1531,
-    "forks_count": 2136
+    "stargazers_count": 9241,
+    "open_issues_count": 1559,
+    "forks_count": 2138
   },
   {
     "full_name": "theboy181/switch-ptchtxt-mods",
-    "stargazers_count": 460,
+    "stargazers_count": 465,
     "open_issues_count": 7,
-    "forks_count": 105
+    "forks_count": 107
   },
   {
     "full_name": "teimor/OpenCore_ASRock-B550M_RX6800XT",
@@ -31,27 +43,27 @@
   },
   {
     "full_name": "meilisearch/meilisearch",
-    "stargazers_count": 33893,
-    "open_issues_count": 118,
-    "forks_count": 1219
+    "stargazers_count": 34025,
+    "open_issues_count": 119,
+    "forks_count": 1221
   },
   {
     "full_name": "massCodeIO/massCode",
-    "stargazers_count": 4472,
-    "open_issues_count": 10,
+    "stargazers_count": 4484,
+    "open_issues_count": 12,
     "forks_count": 124
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 14631,
-    "open_issues_count": 34,
-    "forks_count": 632
+    "stargazers_count": 14755,
+    "open_issues_count": 31,
+    "forks_count": 640
   },
   {
     "full_name": "meituan/YOLOv6",
-    "stargazers_count": 4668,
-    "open_issues_count": 106,
-    "forks_count": 788
+    "stargazers_count": 4679,
+    "open_issues_count": 110,
+    "forks_count": 794
   },
   {
     "full_name": "carykh/lazykh",
@@ -67,25 +79,25 @@
   },
   {
     "full_name": "Schniz/fnm",
-    "stargazers_count": 10349,
-    "open_issues_count": 115,
-    "forks_count": 298
+    "stargazers_count": 10379,
+    "open_issues_count": 116,
+    "forks_count": 300
   },
   {
     "full_name": "ivoronin/TomatoBar",
-    "stargazers_count": 625,
+    "stargazers_count": 627,
     "open_issues_count": 19,
     "forks_count": 35
   },
   {
     "full_name": "spacedriveapp/spacedrive",
-    "stargazers_count": 16660,
+    "stargazers_count": 16686,
     "open_issues_count": 32,
     "forks_count": 444
   },
   {
     "full_name": "objective-see/KnockKnock",
-    "stargazers_count": 233,
+    "stargazers_count": 234,
     "open_issues_count": 19,
     "forks_count": 23
   },
@@ -109,13 +121,13 @@
   },
   {
     "full_name": "1kc/razer-macos",
-    "stargazers_count": 1779,
+    "stargazers_count": 1785,
     "open_issues_count": 407,
-    "forks_count": 193
+    "forks_count": 194
   },
   {
     "full_name": "leandrowd/react-responsive-carousel",
-    "stargazers_count": 2387,
+    "stargazers_count": 2389,
     "open_issues_count": 27,
     "forks_count": 611
   },
@@ -133,9 +145,9 @@
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 146658,
+    "stargazers_count": 146992,
     "open_issues_count": 313,
-    "forks_count": 46819
+    "forks_count": 46874
   },
   {
     "full_name": "IOIIIO/MacProMemoryNotificationDisabler",
@@ -145,26 +157,26 @@
   },
   {
     "full_name": "WyattBlue/auto-editor",
-    "stargazers_count": 1430,
-    "open_issues_count": 7,
+    "stargazers_count": 1438,
+    "open_issues_count": 5,
     "forks_count": 255
   },
   {
     "full_name": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
-    "stargazers_count": 11929,
+    "stargazers_count": 11939,
     "open_issues_count": 21,
-    "forks_count": 2241
+    "forks_count": 2242
   },
   {
     "full_name": "acidanthera/OpenCorePkg",
-    "stargazers_count": 10968,
-    "open_issues_count": 9,
-    "forks_count": 1936
+    "stargazers_count": 11005,
+    "open_issues_count": 8,
+    "forks_count": 1942
   },
   {
     "full_name": "github/gitignore",
-    "stargazers_count": 144659,
+    "stargazers_count": 144807,
     "open_issues_count": 376,
-    "forks_count": 82569
+    "forks_count": 82675
   }
 ]
