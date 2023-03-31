@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "hietalajulius/ios-demo-app",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 9
+  },
+  {
     "full_name": "justinribeiro/go-gopher-model",
     "stargazers_count": 177,
     "open_issues_count": 3,
@@ -7,27 +13,27 @@
   },
   {
     "full_name": "lukeed/clsx",
-    "stargazers_count": 4835,
+    "stargazers_count": 4856,
     "open_issues_count": 8,
     "forks_count": 86
   },
   {
     "full_name": "4lejandrito/next-plausible",
-    "stargazers_count": 346,
+    "stargazers_count": 347,
     "open_issues_count": 6,
-    "forks_count": 23
+    "forks_count": 22
   },
   {
     "full_name": "musescore/MuseScore",
-    "stargazers_count": 9344,
-    "open_issues_count": 1629,
-    "forks_count": 2160
+    "stargazers_count": 9359,
+    "open_issues_count": 1650,
+    "forks_count": 2164
   },
   {
     "full_name": "theboy181/switch-ptchtxt-mods",
-    "stargazers_count": 500,
-    "open_issues_count": 7,
-    "forks_count": 115
+    "stargazers_count": 504,
+    "open_issues_count": 8,
+    "forks_count": 116
   },
   {
     "full_name": "teimor/OpenCore_ASRock-B550M_RX6800XT",
@@ -49,57 +55,57 @@
   },
   {
     "full_name": "meilisearch/meilisearch",
-    "stargazers_count": 34930,
-    "open_issues_count": 126,
-    "forks_count": 1247
+    "stargazers_count": 35184,
+    "open_issues_count": 139,
+    "forks_count": 1270
   },
   {
     "full_name": "massCodeIO/massCode",
-    "stargazers_count": 4571,
+    "stargazers_count": 4579,
     "open_issues_count": 8,
-    "forks_count": 128
+    "forks_count": 129
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 15841,
-    "open_issues_count": 28,
-    "forks_count": 684
+    "stargazers_count": 15946,
+    "open_issues_count": 30,
+    "forks_count": 693
   },
   {
     "full_name": "meituan/YOLOv6",
-    "stargazers_count": 4802,
-    "open_issues_count": 98,
-    "forks_count": 835
+    "stargazers_count": 4820,
+    "open_issues_count": 100,
+    "forks_count": 839
   },
   {
     "full_name": "carykh/lazykh",
-    "stargazers_count": 244,
+    "stargazers_count": 246,
     "open_issues_count": 8,
     "forks_count": 41
   },
   {
     "full_name": "aqeelanwar/MaskTheFace",
-    "stargazers_count": 505,
+    "stargazers_count": 507,
     "open_issues_count": 30,
     "forks_count": 147
   },
   {
     "full_name": "Schniz/fnm",
-    "stargazers_count": 11104,
-    "open_issues_count": 127,
-    "forks_count": 310
+    "stargazers_count": 11138,
+    "open_issues_count": 128,
+    "forks_count": 312
   },
   {
     "full_name": "ivoronin/TomatoBar",
-    "stargazers_count": 660,
+    "stargazers_count": 670,
     "open_issues_count": 18,
     "forks_count": 38
   },
   {
     "full_name": "spacedriveapp/spacedrive",
-    "stargazers_count": 16896,
+    "stargazers_count": 16923,
     "open_issues_count": 41,
-    "forks_count": 449
+    "forks_count": 454
   },
   {
     "full_name": "objective-see/KnockKnock",
@@ -127,8 +133,8 @@
   },
   {
     "full_name": "1kc/razer-macos",
-    "stargazers_count": 1812,
-    "open_issues_count": 415,
+    "stargazers_count": 1817,
+    "open_issues_count": 416,
     "forks_count": 199
   },
   {
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 148638,
+    "stargazers_count": 148849,
     "open_issues_count": 313,
-    "forks_count": 47293
+    "forks_count": 47327
   },
   {
     "full_name": "IOIIIO/MacProMemoryNotificationDisabler",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "WyattBlue/auto-editor",
-    "stargazers_count": 1499,
+    "stargazers_count": 1503,
     "open_issues_count": 5,
-    "forks_count": 261
+    "forks_count": 262
   },
   {
     "full_name": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
-    "stargazers_count": 11990,
+    "stargazers_count": 11995,
     "open_issues_count": 21,
-    "forks_count": 2247
-  },
-  {
-    "full_name": "acidanthera/OpenCorePkg",
-    "stargazers_count": 11154,
-    "open_issues_count": 9,
-    "forks_count": 1962
+    "forks_count": 2248
   }
 ]
