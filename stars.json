@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "yewstack/yew",
+    "stargazers_count": 27044,
+    "open_issues_count": 104,
+    "forks_count": 1296
+  },
+  {
     "full_name": "hietalajulius/ios-demo-app",
     "stargazers_count": 8,
     "open_issues_count": 0,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "justinribeiro/go-gopher-model",
@@ -13,31 +19,31 @@
   },
   {
     "full_name": "lukeed/clsx",
-    "stargazers_count": 4872,
+    "stargazers_count": 4881,
     "open_issues_count": 8,
-    "forks_count": 86
+    "forks_count": 87
   },
   {
     "full_name": "4lejandrito/next-plausible",
-    "stargazers_count": 349,
+    "stargazers_count": 350,
     "open_issues_count": 6,
     "forks_count": 22
   },
   {
     "full_name": "musescore/MuseScore",
-    "stargazers_count": 9380,
-    "open_issues_count": 1678,
-    "forks_count": 2164
+    "stargazers_count": 9394,
+    "open_issues_count": 1689,
+    "forks_count": 2168
   },
   {
     "full_name": "theboy181/switch-ptchtxt-mods",
-    "stargazers_count": 509,
+    "stargazers_count": 512,
     "open_issues_count": 8,
     "forks_count": 117
   },
   {
     "full_name": "teimor/OpenCore_ASRock-B550M_RX6800XT",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 1,
     "forks_count": 1
   },
@@ -55,55 +61,55 @@
   },
   {
     "full_name": "meilisearch/meilisearch",
-    "stargazers_count": 35362,
-    "open_issues_count": 139,
-    "forks_count": 1276
+    "stargazers_count": 35518,
+    "open_issues_count": 137,
+    "forks_count": 1280
   },
   {
     "full_name": "massCodeIO/massCode",
-    "stargazers_count": 4583,
+    "stargazers_count": 4589,
     "open_issues_count": 8,
     "forks_count": 129
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 16079,
-    "open_issues_count": 32,
-    "forks_count": 700
+    "stargazers_count": 16175,
+    "open_issues_count": 33,
+    "forks_count": 704
   },
   {
     "full_name": "meituan/YOLOv6",
-    "stargazers_count": 4827,
-    "open_issues_count": 103,
-    "forks_count": 841
+    "stargazers_count": 4837,
+    "open_issues_count": 106,
+    "forks_count": 843
   },
   {
     "full_name": "carykh/lazykh",
-    "stargazers_count": 248,
+    "stargazers_count": 247,
     "open_issues_count": 8,
     "forks_count": 41
   },
   {
     "full_name": "aqeelanwar/MaskTheFace",
-    "stargazers_count": 509,
+    "stargazers_count": 511,
     "open_issues_count": 30,
-    "forks_count": 146
+    "forks_count": 147
   },
   {
     "full_name": "Schniz/fnm",
-    "stargazers_count": 11190,
+    "stargazers_count": 11298,
     "open_issues_count": 129,
-    "forks_count": 313
+    "forks_count": 314
   },
   {
     "full_name": "ivoronin/TomatoBar",
-    "stargazers_count": 679,
+    "stargazers_count": 683,
     "open_issues_count": 18,
     "forks_count": 38
   },
   {
     "full_name": "spacedriveapp/spacedrive",
-    "stargazers_count": 17019,
+    "stargazers_count": 17048,
     "open_issues_count": 37,
     "forks_count": 460
   },
@@ -133,15 +139,15 @@
   },
   {
     "full_name": "1kc/razer-macos",
-    "stargazers_count": 1824,
-    "open_issues_count": 417,
+    "stargazers_count": 1830,
+    "open_issues_count": 418,
     "forks_count": 201
   },
   {
     "full_name": "leandrowd/react-responsive-carousel",
-    "stargazers_count": 2408,
-    "open_issues_count": 29,
-    "forks_count": 617
+    "stargazers_count": 2409,
+    "open_issues_count": 28,
+    "forks_count": 618
   },
   {
     "full_name": "renzodamgo/Portfolio",
@@ -157,9 +163,9 @@
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 149043,
+    "stargazers_count": 149216,
     "open_issues_count": 313,
-    "forks_count": 47380
+    "forks_count": 47434
   },
   {
     "full_name": "IOIIIO/MacProMemoryNotificationDisabler",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "WyattBlue/auto-editor",
-    "stargazers_count": 1506,
-    "open_issues_count": 5,
-    "forks_count": 262
-  },
-  {
-    "full_name": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
-    "stargazers_count": 11999,
-    "open_issues_count": 22,
-    "forks_count": 2250
+    "stargazers_count": 1513,
+    "open_issues_count": 6,
+    "forks_count": 263
   }
 ]
