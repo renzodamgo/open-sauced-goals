@@ -1,21 +1,21 @@
 [
   {
     "full_name": "ChefKissInc/NootRX",
-    "stargazers_count": 235,
-    "open_issues_count": 3,
+    "stargazers_count": 247,
+    "open_issues_count": 4,
     "forks_count": 19
   },
   {
     "full_name": "renzodamgo/Drivesafe",
     "stargazers_count": 2,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "yewstack/yew",
-    "stargazers_count": 28953,
-    "open_issues_count": 142,
-    "forks_count": 1404
+    "stargazers_count": 28972,
+    "open_issues_count": 143,
+    "forks_count": 1405
   },
   {
     "full_name": "hietalajulius/ios-demo-app",
@@ -31,21 +31,21 @@
   },
   {
     "full_name": "lukeed/clsx",
-    "stargazers_count": 6322,
+    "stargazers_count": 6341,
     "open_issues_count": 9,
-    "forks_count": 107
+    "forks_count": 108
   },
   {
     "full_name": "4lejandrito/next-plausible",
     "stargazers_count": 442,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 27
   },
   {
     "full_name": "musescore/MuseScore",
-    "stargazers_count": 10757,
-    "open_issues_count": 2050,
-    "forks_count": 2367
+    "stargazers_count": 10809,
+    "open_issues_count": 2059,
+    "forks_count": 2377
   },
   {
     "full_name": "theboy181/switch-ptchtxt-mods",
@@ -73,61 +73,61 @@
   },
   {
     "full_name": "meilisearch/meilisearch",
-    "stargazers_count": 40056,
-    "open_issues_count": 158,
-    "forks_count": 1511
+    "stargazers_count": 40104,
+    "open_issues_count": 160,
+    "forks_count": 1513
   },
   {
     "full_name": "massCodeIO/massCode",
-    "stargazers_count": 5144,
+    "stargazers_count": 5148,
     "open_issues_count": 19,
     "forks_count": 161
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 21393,
-    "open_issues_count": 43,
-    "forks_count": 934
+    "stargazers_count": 21428,
+    "open_issues_count": 41,
+    "forks_count": 935
   },
   {
     "full_name": "meituan/YOLOv6",
-    "stargazers_count": 5316,
-    "open_issues_count": 207,
+    "stargazers_count": 5319,
+    "open_issues_count": 209,
     "forks_count": 990
   },
   {
     "full_name": "carykh/lazykh",
-    "stargazers_count": 293,
+    "stargazers_count": 294,
     "open_issues_count": 12,
-    "forks_count": 48
+    "forks_count": 49
   },
   {
     "full_name": "aqeelanwar/MaskTheFace",
-    "stargazers_count": 529,
+    "stargazers_count": 530,
     "open_issues_count": 30,
     "forks_count": 152
   },
   {
     "full_name": "Schniz/fnm",
-    "stargazers_count": 14001,
+    "stargazers_count": 14023,
     "open_issues_count": 169,
-    "forks_count": 387
+    "forks_count": 389
   },
   {
     "full_name": "ivoronin/TomatoBar",
-    "stargazers_count": 1557,
+    "stargazers_count": 1561,
     "open_issues_count": 16,
-    "forks_count": 72
+    "forks_count": 73
   },
   {
     "full_name": "spacedriveapp/spacedrive",
-    "stargazers_count": 27138,
-    "open_issues_count": 59,
-    "forks_count": 873
+    "stargazers_count": 27203,
+    "open_issues_count": 64,
+    "forks_count": 876
   },
   {
     "full_name": "objective-see/KnockKnock",
-    "stargazers_count": 321,
+    "stargazers_count": 322,
     "open_issues_count": 21,
     "forks_count": 29
   },
@@ -151,13 +151,13 @@
   },
   {
     "full_name": "1kc/razer-macos",
-    "stargazers_count": 2093,
-    "open_issues_count": 465,
+    "stargazers_count": 2094,
+    "open_issues_count": 466,
     "forks_count": 225
   },
   {
     "full_name": "leandrowd/react-responsive-carousel",
-    "stargazers_count": 2552,
+    "stargazers_count": 2553,
     "open_issues_count": 19,
     "forks_count": 635
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 161773,
+    "stargazers_count": 161954,
     "open_issues_count": 311,
-    "forks_count": 51212
+    "forks_count": 51257
   }
 ]
